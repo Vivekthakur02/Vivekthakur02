@@ -1,60 +1,37 @@
-# 👋 Hi, I’m Vivek Thakur
+<h2 align="left">Hi 👋! My name is Vivek Thakur </h2>
 
-🎓 Final-year Economics student at IIT Kharagpur  
-📊 Data Analysis • Finance • Applied Economics  
-📣 I translate data into decisions—across trade, sustainability, and markets.
+<p align="left">
+  <img src="https://giffiles.alphacoders.com/222/222992.gif" alt="Black Clover GIF" height="100" />
+</p>
 
----
 
-## 🔎 About Me
-- I’m an **analysis-first** person: modeling, interpretation, and clear storytelling > hardcore coding.  
-- Strengths: **econometrics, financial analysis, time series & panel data**, and **policy insights**.  
-- Focus areas: **international trade**, **gender & development**, **environmental economics**, **corporate valuation**.
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R logo" />
+  <img width "12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="MATLAB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+</div>
 
-## 🚀 Featured Work
-- **Adidas AG Valuation**  
-  Built DCF-based valuation (FCFF / CCFF / ECF) and ratio analysis leading to investment insights.  
-  *Tags:* Corporate Finance, DCF, Equity Research  
-  <!-- link your repo -->
-  ➤ Repo: _add-link_
+###
 
-- **Trade & Gender (FLFP → Exports)**  
-  Panel-data study on how female labor force participation relates to export performance in labor-intensive sectors.  
-  *Tags:* Panel Econometrics, Development, Trade Policy  
-  ➤ Repo: _add-link_
+### About me
+- I turn data into clear decisions—finance, trade, environment  
+- Methods: regression, time series, panel data, scenario & sensitivity analysis  
+- Focus: corporate valuation, trade economics, environmental policy
 
-- **India–OPEC Oil & Macroeconomy**  
-  Time-series/panel analysis of how crude imports and oil prices affect GDP, inflation, trade balance, and FX.  
-  *Tags:* Macroeconomics, Time Series, Policy  
-  ➤ Repo: _add-link_
+### Featured work
+- **Adidas AG Valuation** — DCF + ratio analysis  
+- **Trade & Gender Study** — panel on female labor participation & exports  
+- **Oil Imports & Macro** — India–OPEC dynamics & GDP, inflation, trade  
+- **Environmental Econ / EKC** — modeling, robustness, policy scenarios
 
-- **Environmental Economics & EKC**  
-  EKC estimation, robustness (ECM, short-run dynamics), and policy scenarios for greener growth.  
-  *Tags:* Sustainability, Econometrics, CBA  
-  ➤ Repo: _add-link_
-
-- **Applied ML in Economics (Explorations)**  
-  Application-focused notes on Spiking Neural Networks & Federated Learning for secure, private analytics.  
-  *Tags:* Applied ML, Privacy, Robustness  
-  ➤ Repo: _add-link_
-
----
-
-## 🛠️ Skills & Tools
-**Analysis:** Stata, R, Excel, MATLAB, Python (for data handling/analysis)  
-**Methods:** Regression, Time Series, Panel Data, Monte Carlo, Scenario & Sensitivity Analysis  
-**Finance:** Corporate Valuation (DCF), Equity Analysis, Risk/Portfolio Basics  
-**Economics:** International Trade, Environmental Policy, Macroeconomic Modeling
-
----
-
-## 📬 Contact
-- Email: _add-email_  
-- LinkedIn: _add-link_  
-- Portfolio/Website: _add-link_
-
----
-
-> *“Turning complexity into clarity—so decisions get easier, better, and faster.”*
+### Connect
+- **LinkedIn:** your-link  
+- **Email:** your-email
