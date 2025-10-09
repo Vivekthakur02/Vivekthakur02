@@ -38,33 +38,6 @@ I'm a final-year **Economics** student at **IIT Kharagpur** with a profile focus
 
 **Domains:** Corporate finance, portfolio theory, development & trade, environmental economics
 
----
-
-### 📚 Selected Projects
-
-> Tip: Pin these repos on your profile for quick access.
-
-* **Adidas Valuation: Ratio & Analysis**
-  Multi-method valuation (FCFF/CCFF/ECF), dashboards & investment memo.
-  `finance` `valuation` `DCF` `excel-model`
-  **Repo:** `link-here`
-
-* **Company Valuation of Adidas AG (Course Project)**
-  Equity analysis + restructuring scenarios; client-style presentation deck.
-  `equity-analysis` `dcf` `presentation`
-  **Repo:** `link-here`
-
-* **SNN for Scientific Computing (University of Oulu)**
-  Remote research collaboration; formulation + constrained convex optimization integration; performance analysis.
-  `SNN` `optimization` `scientific-computing` `remote-collaboration`
-  **Repo:** `https://github.com/Vivekthakur02/Portfolio-Optimization-MAD-ANN`
-
-* **Trade, Gender & Exports**
-  Panel-data study on FLFP and labor‑intensive export performance in developing countries.
-  `econometrics` `development` `trade`
-  **Repo:** `link-here`
-
----
 
 ### 🧪 Research Questions I Explore
 
