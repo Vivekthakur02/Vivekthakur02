@@ -27,9 +27,6 @@ I'm a final-year **Economics** student at **IIT Kharagpur** with a profile focus
 
 * 📈 **Adidas AG Valuation** — built comprehensive models using **FCFF / CCFF / ECF**, plus DCF scenarios, sensitivity & presentation-ready outputs.
 * 🧠 **Spiking Neural Network for Scientific Computing** — supervised research at **University of Oulu** exploring constrained convex optimization with SNNs (Mar–Jul 2025).
-* 🌐 **IoT Analytics Platform (Python + CakePHP)** — early-stage platform for data ingestion & analytics; open to new advancements.
-* 🛰️ **Federated Learning** — experimenting with **secure aggregation** & **robust aggregation** against adversarial attacks.
-* 🌾 **Food/Agriculture Sensors** — spectral data analysis, chemometrics, and GUI tooling for inspection workflows.
 * 🌍 **Trade & Gender Research** — panel-data modeling of **female labor force participation** & sectoral export performance; robustness via scenario & Monte Carlo.
 * 🇮🇳 **India–OPEC Oil Linkages** — panel/time-series exploration of crude imports on GDP growth, inflation, trade balance & FX.
 
@@ -37,11 +34,11 @@ I'm a final-year **Economics** student at **IIT Kharagpur** with a profile focus
 
 ### 🛠️ Tech & Skills
 
-**Languages & Data:** Python (pandas, NumPy, scikit-learn), MATLAB, Stata, SQL (basics), Excel (Power Query), LaTeX
+**Languages & Data:** Python (pandas, NumPy, scikit-learn), MATLAB, Stata, SQL (basics), Excel
 
 **Methods:** DCF valuation (FCFF/CCFF/ECF), econometrics (panel/time-series), optimization, Monte Carlo & sensitivity, basic ML modeling
 
-**Domains:** Corporate finance, portfolio theory, development & trade, environmental economics, IoT analytics
+**Domains:** Corporate finance, portfolio theory, development & trade, environmental economics
 
 ---
 
@@ -62,17 +59,7 @@ I'm a final-year **Economics** student at **IIT Kharagpur** with a profile focus
 * **SNN for Scientific Computing (University of Oulu)**
   Remote research collaboration; formulation + constrained convex optimization integration; performance analysis.
   `SNN` `optimization` `scientific-computing` `remote-collaboration`
-  **Repo:** `link-here`
-
-* **Federated Learning — Secure & Robust Aggregation**
-  Experiments with secure weight-sharing & aggregation under adversaries.
-  `federated-learning` `privacy` `security`
-  **Repo:** `link-here`
-
-* **IoT Analytics Platform (Python + CakePHP)**
-  Data ingestion, basic analytics, and future ML hooks.
-  `IoT` `analytics` `platform`
-  **Repo:** `link-here`
+  **Repo:** `https://github.com/Vivekthakur02/Portfolio-Optimization-MAD-ANN`
 
 * **Trade, Gender & Exports**
   Panel-data study on FLFP and labor‑intensive export performance in developing countries.
@@ -95,7 +82,6 @@ I like building small, sharp tools for analysts:
 
 * Efficient frontier visualizations & **max Sharpe** annotations
 * Clean **DCF templates** with scenario toggles
-* Reproducible **Stata/MATLAB notebooks** for panel models
 
 > If any of these would help you, feel free to open an issue or discussion.
 
