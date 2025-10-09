@@ -56,16 +56,6 @@ I like building small, sharp tools for analysts:
 
 > If any of these would help you, feel free to open an issue or discussion.
 
----
-
-### 🧰 Starter Templates (Free for Students)
-
-* `template-dcf-model/` — FCFF/CCFF/ECF scaffold with README walkthrough
-* `template-panel-econ/` — Stata project with do‑files, figures/ and output/ folders
-* `template-ml-econ/` — Python notebook for data prep → baseline models → evaluation
-
----
-
 ### 🗂️ How I Work
 
 * Clear READMEs and **Makefiles** / task runners where helpful
