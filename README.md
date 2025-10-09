@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=600&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vivek+Thakur+👋;Economics+%26+Finance+%7C+Data+Science+%7C+ML;CFA+Level+I+Cleared+%7C+IIT+Kharagpur+%F0%9F%8E%93;I+build+data-driven+tools+%26+tell+clear+stories" alt="Typing SVG" />
 </p>
