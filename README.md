@@ -23,8 +23,8 @@ I'm a final-year **Economics** student at **IIT Kharagpur** with a profile focus
 
 ### 🔥 Highlights
 
-* 📈 **Adidas AG Valuation** — built comprehensive models using **FCFF / CCFF / ECF**, plus DCF scenarios, sensitivity & presentation-ready outputs.
-* 🧠 **Spiking Neural Network for Scientific Computing** — supervised research at **University of Oulu** exploring constrained convex optimization with SNNs (Mar–Jul 2025).
+* 📈 **Adidas AG Valuation** — built comprehensive models using **FCFF / CCFF / ECF**, plus DCF scenarios, sensitivity & presentation-ready outputs. Link:https://github.com/Vivekthakur02/ADIDAS-AG-VALUATION
+* 🧠 **Spiking Neural Network for Scientific Computing** — supervised research at **University of Oulu** exploring constrained convex optimization with SNNs (Mar–Jul 2025). Link: https://github.com/Vivekthakur02/Portfolio-Optimization-MAD-ANN
 * 🌍 **Trade & Gender Research** — panel-data modeling of **female labor force participation** & sectoral export performance; robustness via scenario & Monte Carlo.
 * 🇮🇳 **India–OPEC Oil Linkages** — panel/time-series exploration of crude imports on GDP growth, inflation, trade balance & FX.
 
