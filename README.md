@@ -15,9 +15,9 @@
 
 I'm a final-year **Economics** student at **IIT Kharagpur** with a profile focused on **Finance**, **Econometrics**, and **Machine Learning**. I enjoy turning messy data into sharp insights and building reproducible analysis pipelines.
 
-* 🧪 Research interests: **trade & development**, **gender & labor economics**, **time-series/panel models**, **portfolio optimization**
-* 🧰 Tooling: **Python**, **MATLAB**, **Stata**, **Excel**, **CakePHP (legacy)**, **Git/GitHub**, **LaTeX**
-* 🎓 Current goals: strengthen **Fixed Income & Equity** mastery post **CFA Level I**; ship more open-source utilities for students & analysts.
+* 🧪 Academic Research: **trade & development**, **gender & labor economics**, **time-series/panel models**, **portfolio optimization**
+* 🧰 Tooling: **Python**, **MATLAB**, **Stata**, **Excel**, **Git/GitHub**, **LaTeX**
+* 🎓 Current goals: strengthen **Equity Research and Valuation** mastery post **CFA Level I**; ship more open-source utilities for students & analysts.
 
 ---
 
@@ -31,29 +31,13 @@ I'm a final-year **Economics** student at **IIT Kharagpur** with a profile focus
 
 ### 🛠️ Tech & Skills
 
-**Languages & Data:** Python (pandas, NumPy, scikit-learn), MATLAB, Stata, SQL (basics), Excel
+**Languages & Data:** Python, MATLAB, Stata, SQL (basics), Excel
 
 **Methods:** DCF valuation (FCFF/CCFF/ECF), econometrics (panel/time-series), optimization, Monte Carlo & sensitivity, basic ML modeling
 
 **Domains:** Corporate finance, portfolio theory, development & trade, environmental economics
 
-
-### 🧪 Research Questions I Explore
-
-* How does **female labor force participation** affect export performance in **labor‑intensive industries** of developing countries?
-* Does **gender inequality in education** correlate with **lower trade volumes** in specific sectors?
-* How do **India’s crude oil imports from OPEC** impact **GDP growth**, **inflation**, **trade balance**, and **exchange rates**?
-
 ---
-
-### 📈 Portfolio & Markets
-
-I like building small, sharp tools for analysts:
-
-* Efficient frontier visualizations & **max Sharpe** annotations
-* Clean **DCF templates** with scenario toggles
-
-> If any of these would help you, feel free to open an issue or discussion.
 
 ### 🗂️ How I Work
 
