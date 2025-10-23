@@ -26,6 +26,7 @@ I'm a final-year **Economics** student at **IIT Kharagpur** with a profile focus
 * 📈 **Adidas AG Valuation** — built comprehensive models using **FCFF / CCFF / ECF**, plus DCF scenarios, sensitivity & presentation-ready outputs. Link:https://github.com/Vivekthakur02/ADIDAS-AG-VALUATION
 * 🧠 **Spiking Neural Network for Scientific Computing** — supervised research at **University of Oulu** exploring constrained convex optimisation with SNNs (Mar–Jul 2025). Link: https://github.com/Vivekthakur02/Portfolio-Optimization-MAD-ANN
 * 💹 **Autocorrelation and Heteroscedasticity Detection & Resolution** - Built a linear regression model to analyse the relationship between GDP and Gross Capital Formation in India using RBI time-series data. Link: https://github.com/Vivekthakur02/Autocorrelation-and-Heteroscedasticity-Detection-in-GDP-Investment-Model
+* 📄 **ICICI Bank Equity Research Report** Link: https://github.com/Vivekthakur02/ICICI-Bank-Equity-Research-Report
 ---
 
 ### 🛠️ Tech & Skills
